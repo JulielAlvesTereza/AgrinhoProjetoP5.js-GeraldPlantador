@@ -6,3 +6,5 @@ Musicas Adicionadas:
   "Towny - Item Asylum"  
   Eu desenhei todos os sprites.  
   IbisPaint X  
+
+Versões 0.0.1 - 1.0.0  
